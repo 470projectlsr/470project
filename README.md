@@ -14,3 +14,6 @@
 # repeat the the process and hit all balls into the targets. In a word, all above steps is feasible on the simulator basd on our tests. 
 # We will upload our code here for following update
 # Here is our video for sensoring the motion of our robot : https://youtu.be/teLMqd5arco
+
+# Update2
+# Here is our video for sensoring the motion of our robot : https://youtu.be/PCBdLuQiRt4
