@@ -18,3 +18,7 @@
 # Update2
 # There is codebase in this update
 # Here is our video for sensoring the motion of our robot : https://youtu.be/PCBdLuQiRt4
+
+# Update3
+# The code used in Update3 is attached as Update3.py
+# Here is our video for IK of our robot : https://youtu.be/G9mpzz6aL-0
